@@ -1,2 +1,1 @@
-# PHP-Dev
-My default setup for PHP development for quick and easy setup
+My default setup for web development for quick and easy setup

@@ -1,0 +1,15 @@
+[submodule "libs/PHP-Snippets"]
+	path = libs/PHP-Snippets
+	url = https://github.com/Kakadua/PHP-Snippets
+[submodule "libs/51Degrees"]
+	path = libs/51Degrees
+	url = https://github.com/51Degrees/51Degrees-PHP
+[submodule "libs/kint"]
+	path = libs/kint
+	url = https://github.com/raveren/kint
+[submodule "libs/PHPMailer"]
+	path = libs/PHPMailer
+	url = https://github.com/PHPMailer/PHPMailer
+[submodule "libs/php-curl-class"]
+	path = libs/php-curl-class
+	url = https://github.com/php-curl-class/php-curl-class
